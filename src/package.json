@@ -1,0 +1,17 @@
+{
+  "name": "gapp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "engines": {
+    "node": "14.15.0",
+    "npm": "6.14.8"
+  },
+  "dependencies": {
+    "express": "3.0.0rc5",
+    "jade": "*",
+    "socket.io": "*"
+  }
+}
